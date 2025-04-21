@@ -1,0 +1,31 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# IDE / Editor folders
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ollama model data (if any downloaded locally)
+ollama/
+
+# Image & export output
+assets/image/
+*.txt
+
+# PyInstaller
+dist/
+build/
+*.spec
